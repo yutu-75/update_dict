@@ -1,10 +1,14 @@
-=====================
+
 update_dict
 =====================
 
 
 
 A Python module who does recursive update work on 2 dicts.
+
+Is a method of updating nested dictionaries
+
+更新多层嵌套字典的键值.
 
 Usage
 =====
@@ -38,7 +42,7 @@ Examples
 Why?
 ====
 
-...............
+
 License
 =======
-`MIT <./LICENSE.txt>`_
+
